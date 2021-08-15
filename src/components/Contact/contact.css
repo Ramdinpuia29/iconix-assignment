@@ -1,0 +1,9 @@
+.contact > h3 {
+  margin-top: 2rem;
+}
+
+.contact > a {
+  text-decoration: underline;
+  color: black;
+  font-weight: 600;
+}

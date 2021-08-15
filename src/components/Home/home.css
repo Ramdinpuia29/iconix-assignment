@@ -1,0 +1,10 @@
+.title {
+  color: white;
+  background: #a3131d;
+}
+
+.home > img {
+  margin: 2rem;
+  border-radius: 25px;
+  max-width: 40vw;
+}

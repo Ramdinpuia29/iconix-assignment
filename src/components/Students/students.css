@@ -1,0 +1,74 @@
+.students {
+  margin-bottom: 5rem;
+}
+
+.add-btn {
+  background: #a3131d;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn {
+  background: red;
+  height: 30px;
+  width: 30px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+:hover > .btn {
+  background: rgb(180, 2, 2);
+}
+
+.title {
+  color: white;
+  background: #a3131d;
+}
+
+.text-input {
+  background: #eee;
+  margin: 5px;
+  padding: 1em 0.5em;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-width: 800px;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  background-color: white;
+  margin-top: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  min-width: 30vw;
+  max-width: 60vw;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px;
+  align-items: center;
+  margin: 10px 0;
+}

@@ -1,0 +1,9 @@
+.header {
+  padding: 2rem;
+  background: #202030;
+  color: white;
+}
+
+.header > h1 {
+  font-size: 3rem;
+}
