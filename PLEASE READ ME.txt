@@ -1,0 +1,7 @@
+This assignment is done by LALRAMDINPUIA, GCETLY
+
+This zip file is cloned from my github repository and will require npm install (or) yarn install to run the app.
+
+Github repository link: https://github.com/Ramdinpuia29/iconix-assignment
+
+The snapshot of this project is included in the assignment snapshots folder.
